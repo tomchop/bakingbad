@@ -10,7 +10,9 @@ who cares, really, in these times of uncertainty)
 
 # I want to add a new recipe
 
-Just fork the repo, add a .md file in `/recipes` and send a pull request!
+Just fork the repo, add a `.md` file in `/recipes`, add a link to it from the
+`Recipes` section here and send a pull request! Feel free to include images,
+guides, links to other websites or recipes.
 
 # What recipes are you looking for?
 
