@@ -6,7 +6,7 @@ who cares, really, in these times of uncertainty)
 
 ## Recipes
 
-* None yet!
+ [Sourdough pitta](recipes/sourdough-pitta/sourdough_pitta.md) (by sholgz)
 
 # I want to add a new recipe
 
