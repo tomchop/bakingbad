@@ -7,6 +7,7 @@ who cares, really, in these times of uncertainty)
 ## Recipes
 
  [Sourdough pitta](recipes/sourdough-pitta/sourdough_pitta.md) (by [sholgz](https://github.com/sholgz))
+ [tomchop's sourdough bread](recipes/tomchops-attempt-at-sourdough/recipe.md) (by [tomchop](https://github.com/tomchop))
 
 # I want to add a new recipe
 
