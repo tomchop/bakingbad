@@ -66,6 +66,9 @@ Remove the dough from the bowl on your counter. Your goal is now to pre-shape th
 
 Once you have your ball, let it rest on the bench for 30 minutes, covering with a kitchen towel.
 
+![pre-shape](pre-shape.jpg)
+
+
 ### 19:30 - Final shaping and proofing
 
 Now's the time to shape your bread and put it in a proofing vessel and into the fridge overnight.
@@ -78,6 +81,11 @@ Shape your bread by pulling its extremities and folding them back in the middle.
 
 Leavet it in the fridge overnight! I usuall count 12 hours of cold proofing (or _retarding_; the cold slows down the proofing process), but the more you leave it the more sour your loaf will be, so if that's your thing, feel free to leave it in a bit more.
 
+End result should look kinda like this:
+
+![shaped](shaped.jpg)
+
+
 ### 09:00 - 10:00 (next day) - the bake
 
 You're going to want to bake your bread in a humid environment. To achieve this, you can use a dutch oven ([casserole with fitting lid](https://www.lecreuset.fr/cocotte-ronde-en-fonte-emaillee)), or shove a tray with ice cubes at the bottom of your oven. I've never tried the latter. You can also use a [cast-iron combo cooker](https://lodgecookware.com.au/cast-iron-3-2-quart-combo-cooker/).
@@ -85,6 +93,8 @@ You're going to want to bake your bread in a humid environment. To achieve this,
 Put your dutch oven in your oven (including lid) and pre-heat the oven to 260 ºC. I wait until the oven tells me it's warm enough, but some people pre-heat for an hour. I have not found any difference. While it's pre-heating, take the banetton out of the fridge, and get some baking parchment ready.
 
 Once the oven tells you it's ready, flip the banetton on the parchment paper (I place the parchment paper on top of the banetton, a wooden cutting board on top of the paper, and flip the whole thing slowly)
+
+![post-proof](post-proof.jpg)
 
 You'll want to score the dough to make sure it burtsts in the right places. You can use a razon blade or a sharp knife. A box pattern works well, so does a longitudinal cut a few centimeters deep. Your choice, feel free to experiment!
 
@@ -97,3 +107,5 @@ As you do this, decrease the temperature to 230 ºC, and let it bake for 20 minu
 Using oven mitts, remove the Dutch oven from the oven and take the baked loaf out. Use exterme caution as everything is still very very hot. Let cool the loaf for about an hour (this is to prevent moisture from escaping the loaf should you cut it open too early). Iknow it's hard, but it's worth the wait!
 
 Enjoy your bread!
+
+![post-bake](post-bake.jpg)
