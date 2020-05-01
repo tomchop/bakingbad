@@ -19,7 +19,7 @@ guides, links to other websites or recipes.
 
 Take a look at the open [issues](https://github.com/tomchop/bakingbad/issues).
 
-# I have an idea that would make this less idea less stupid
+# I have an idea that would make this idea less stupid
 
 Please open an [issue](https://github.com/tomchop/bakingbad/issues/new), nothing
  is fixed, everything can change.
