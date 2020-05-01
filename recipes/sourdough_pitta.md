@@ -22,7 +22,7 @@ For the technique, theoretically you can follow one of the many sourdough bread 
 ### Technique
 
 Mix together water, starter and the flour, get it to the state of sticky mess and let the dough meditate for 40 min.
-Once the dough is rested and some gluten is developed, add the salt and start knitting the dough.
+Once the dough is rested and some gluten is developed, add the salt and start kneading the dough.
 You can knead the dough by hand using slap and fold technique or alternatively use a mixer with a dough hook. At the end of the process the dough should pass the windowpane test, it will take ~10 min. Move the dough to a clean bowl, cover it and let it slowly ferment in the fridge for 12h or longer (when using commercial yeast, I would suggest extending the fermentation period to 24 - 36h).
 If you followed the bread making technique, skip the shaping stage and just put the dough you want to make pittas from in the fridge.
 
