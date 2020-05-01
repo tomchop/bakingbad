@@ -45,9 +45,9 @@ Eat them fresh with some humus, or freeze for later.
 Enjoy!
 
 
-![pitta](/pitta.jpg)
+![pitta](https://github.com/sholgz/bakingbad/blob/master/pitta.jpg)
 
-![humus](/humus.jpg)
+![humus](https://github.com/sholgz/bakingbad/blob/master/pitta.jpg)
 
 
 
