@@ -2,7 +2,7 @@
 
 There is nothing like a warm and fluffy pitta to go along with a freshly prepared humus or shakshuka.
 Pittas keep extremely well in the freezer, so make a dozen, put them in the freezer bag and just pop it in the toaster before use. I prefer my pittas made out of sourdough because I really like the depth of the flavour which comes with it and IMO it  keeps better in the freezer. 
-If you can't be bothered with sourdough, longer cold fermentation should also do the trick. I would suggest fermenting for ~24-36h in the fridge.
+If you can't be bothered with sourdough, longer cold fermentation should also do the trick. I would suggest proofing for ~24-36h in the fridge.
 
 ## General approach
 I usually use the same proportion here as with standard bread making, mainly because I don't know any better.
