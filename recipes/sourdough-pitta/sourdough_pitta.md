@@ -1,7 +1,9 @@
 # Sourdough Pitta
 
+Contributed by [sholgz](https://github.com/sholgz)
+
 There is nothing like a warm and fluffy pitta to go along with a freshly prepared humus or shakshuka.
-Pittas keep extremely well in the freezer, so make a dozen, put them in the freezer bag and just pop it in the toaster before use. I prefer my pittas made out of sourdough because I really like the depth of the flavour which comes with it and IMO it  keeps better in the freezer. 
+Pittas keep extremely well in the freezer, so make a dozen, put them in the freezer bag and just pop it in the toaster before use. I prefer my pittas made out of sourdough because I really like the depth of the flavour which comes with it and IMO it  keeps better in the freezer.
 If you can't be bothered with sourdough, longer cold fermentation should also do the trick. I would suggest proofing for ~24-36h in the fridge.
 
 ## General approach
@@ -29,7 +31,7 @@ If you followed the bread making technique, skip the shaping stage and just put 
 ### Shaping and baking
 2-3 hours before you want to bake the pitta, take the dough out of the fridge.
 Divide it into 100g pieces, and shape them into balls. Let the pittas prove at the room temperature for about 2h.
-I usually bake my pittas on a pizza stone or a cast iron skillet pan. 
+I usually bake my pittas on a pizza stone or a cast iron skillet pan.
 
 Preheat the oven together with a pizza stone or a pan to 250° C.
 
@@ -48,9 +50,3 @@ Enjoy!
 ![pitta](pitta.jpg)
 
 ![humus](humus.jpg)
-
-
-
-
-
-
