@@ -1,4 +1,6 @@
 # Focaccia Genovese
+Contributed by [pstirparo](https://github.com/pstirparo)
+
 You can find different type of focaccia recipes, different variants, but the original focaccia comes from Genova :)
 
 Be aware, it take 3h time from starting till is ready to eat. So considering that respecting the leavening time is crucial, if you don't have 3h then better not start.
@@ -52,3 +54,5 @@ Once baked, take it out of the oven and turn the focaccia on a grill to rest so 
 Give another round/brushstroke of EVO on the surface (and a little bit of salt too ;)) and serve it hot!!!
 
 Enjoy it ;)
+
+![Final Result](focaccia-final.jpg)
