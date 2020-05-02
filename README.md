@@ -11,7 +11,7 @@ who cares, really, in these times of uncertainty)
 
 # I want to add a new recipe
 
-Just fork the repo, add a directory in in `/recipes`, add a link to it from the
+Just fork the repo, add a directory in `/recipes`, add a link to it from the
 `Recipes` section here and send a pull request! Feel free to include images,
 guides, links to other websites or recipes.
 
