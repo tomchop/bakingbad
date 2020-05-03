@@ -6,12 +6,13 @@ who cares, really, in these times of uncertainty)
 
 ## Recipes
 
+* [Focaccia Genovese](recipes/focaccia-genovese/focaccia_genovese.md) (by [pstirparo](https://github.com/pstirparo))
 * [Sourdough pitta](recipes/sourdough-pitta/sourdough_pitta.md) (by [sholgz](https://github.com/sholgz))
 * [tomchop's sourdough bread](recipes/tomchops-attempt-at-sourdough/recipe.md) (by [tomchop](https://github.com/tomchop))
 
 # I want to add a new recipe
 
-Just fork the repo, add a directory in in `/recipes`, add a link to it from the
+Just fork the repo, add a directory in `/recipes`, add a link to it from the
 `Recipes` section here and send a pull request! Feel free to include images,
 guides, links to other websites or recipes.
 
